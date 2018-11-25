@@ -31,7 +31,7 @@ The LAMP software stack has been built and tested (LAMP consists of the Linux, A
 - The server hosting ownCloud has the operating system installed.
 - Apache web server is installed and tested.
 - The SQLite or MariaDB database has been setup and configured.
-- All the required PHP librariess have been installed.
+- All the required PHP libraries have been installed.
 - The root usernames and passwords are set and available.
 
 #####*Note: Use the link below to confirm the system requirements for the installation type being preformed.* 
@@ -50,7 +50,7 @@ The ownCloud server software can be downloaded from the following location:
 
 [https://owncloud.org/download](https://owncloud.org/download "owncloud software download")
 
-##### *Note: This Quickstart guide was created for workgroups and departments sized up to 150 users. This guide was validated using CentOS 7.2*
+##### *Note: This Quickstart guide was created for work groups and departments sized up to 150 users. This guide was validated using CentOS 7.2*
 
 All information required should be collected prior to starting the installation and configuration. Ensure that all usernames, passwords, IP Addresses, and Hostname have been verified prior to starting the installation. Software update files or patches may have to be installed for the ownCloud server application, including CentOS Linux patches.
 
