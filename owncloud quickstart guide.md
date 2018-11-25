@@ -34,7 +34,7 @@ The LAMP software stack has been built and tested (LAMP consists of the Linux, A
 - All the required PHP libraries have been installed.
 - The root usernames and passwords are set and available.
 
-#####*Note: Use the link below to confirm the system requirements for the installation type being preformed.* 
+#####Note: Use the link below to confirm the system requirements for the installation type being preformed. 
 
 Access to ownCloud System Requirements can be found at the following link:
 [https://doc.owncloud.org/server/latest/admin_manual/installation/system_requirements.html](https://doc.owncloud.org/server/latest/admin_manual/installation/system_requirements.html "System Requirements")
@@ -62,7 +62,7 @@ It is strongly recommended that this Quickstart guide be read in its entirety be
 ## Installation 
 Use the link below to download the tarball file required to install the ownCloud server.
 
-#####*Note: The installation via the ownCloud tarball is the most common option and is best for production environments.*
+#####Note: The installation via the ownCloud tarball is the most common option and is best for production environments.
 
 [https://owncloud.org/download/#owncloud-server-tar-ball](https://owncloud.org/download/#owncloud-server-tar-ball "Tarball Download")
 
@@ -122,7 +122,7 @@ Use the next step to select the database type that will be used for the installa
 
 - Enter in the **Database user**, **Database password**, **Database name** and update the **hostname** if necessary.
 
-#####***Note: Record the information entered for safe keeping.***
+#####Note: Record the information entered for safe keeping.
 
 - Navigate down to the **Finish setup** button, and click on it to complete the database installation.
 
