@@ -122,7 +122,7 @@ Use the next step to select the database type that will be used for the installa
 
 - Enter in the **Database user**, **Database password**, **Database name** and update the **hostname** if necessary.
 
-#####Note: Record the information entered for safe keeping.
+#####Note: Record the information entered for safe keeping.#####
 
 - Navigate down to the **Finish setup** button, and click on it to complete the database installation.
 
@@ -132,7 +132,7 @@ With the Database setup now complete the Admin User management window will be di
 
 ![](https://i.imgur.com/3UqH10f.jpg)
 
-#####*Note: The dialog window displaying the desktop clients and the mobile clients can be closed, they will be covered later on in the guide.*
+#####*Note: The dialog window displaying the desktop clients and the mobile clients can be closed, they will be covered later on in the guide.*#####
 
 ## User Management ##
 
@@ -158,7 +158,7 @@ Some of the user management functions that can be created or modified in the Use
 
 - Resetting a Lost Admin Password
 
-#####*Note: A more inclusive list of user management functions can be found in the Server Administration Manual at the following link:*
+#####*Note: A more inclusive list of user management functions can be found in the Server Administration Manual at the following link:#####
 
 [https://doc.owncloud.org/server/10.0/admin_manual/configuration/user/](https://doc.owncloud.org/server/10.0/admin_manual/configuration/user/ "Admin Guide")
 
@@ -199,7 +199,7 @@ The ownCloud desktop client enables the end user to keep files across many devic
 
 The goal of ownCloud is to give access to your files wherever you are. While the web interface brings considerable flexibility and portability, when working with documents and pictures directly on your desktop. The desktop clients allow you to keep your existing work flow, making sharing and collaboration a breeze.
 
-###This section will cover installing the Windows desktop client.
+###This section will cover installing the Windows desktop client.###
 
 Download the Windows PC client from the following link:
 
@@ -237,7 +237,7 @@ There should be a ownCloud icon with a green circle with check mark in it signif
 Navigate to the Windows File Explorer and there should be ownCloud folder displayed with the folders and items on the ownCloud server. Click on the **Close** button to complete the installation.
 
 
-###This section will cover installing the iOS mobile client.
+###This section will cover installing the iOS mobile client.###
 
 On the iOS device go to the App store and purchase the ownCloud client and download it. When the download completes select the open button to open the ownClound client.
 
