@@ -37,6 +37,7 @@ The LAMP software stack has been built and tested (LAMP consists of the Linux, A
 **Note: Use the link below to confirm the system requirements for the installation type being preformed.** 
 
 Access to ownCloud System Requirements can be found at the following link:
+
 [https://doc.owncloud.org/server/latest/admin_manual/installation/system_requirements.html](https://doc.owncloud.org/server/latest/admin_manual/installation/system_requirements.html "System Requirements")
 
 Setting up Apache, SQLite/Mariadb and the required PHP libraries are outside the scope of this guide.
@@ -82,11 +83,11 @@ The tarball will unpackage the files and set them in the proper directories.The 
 
 The ownCloud server is now ready to be configured via a WEB Browser. Open a WEB Browser and enter in the IP Address configured for the ownCloud server in the following format:
 
-- ***Example Input:***  http://192.168.203.133/owncloud (press enter to continue).
+- ***Example Input:***  http://10.205.52.54/owncloud (press enter to continue).
 
 ***Figure 1:*** Launch the ownCloud Admin GUI
 
-![](https://i.imgur.com/RwIDJxr.jpg)
+![](https://i.imgur.com/0lGKcHI.jpg)
 
 The admin configuration window will be displayed.
 
@@ -257,7 +258,7 @@ The IP Entry screen will be displayed.
 
 The next dialog window will prompt you for the username and password. 
 
-- Enter in the **username** and **password** for the ownCloud server.****
+- Enter in the **username** and **password** for the ownCloud server.
 
 ***Figure 10:*** IP Entry and Connect to ownCloud Server Screen
 
