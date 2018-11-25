@@ -96,15 +96,14 @@ The admin configuration window will be displayed.
 ![](https://i.imgur.com/UJKnQra.jpg)
 
 - Navigate down to the **Username** parameter setting and enter in the **Admin Username**. 
-- Navigate down to the **Password** parameter setting and enter in the **Password for Admin**.
-
+- Navigate down to the **Password** parameter setting and enter in the **Password for Admin**.**
 - Navigate down to the **Data folder** parameter setting, ensure the location displayed is correct. If it is not correct update it to the proper location.
 
 ***Figure 3:*** Storage and Database Settings Window
 
 ![](https://i.imgur.com/v2XD80B.jpg)
 
-***Note: Please read through the next step carefully so that the proper database is selected.***
+****Note: Please read through the next step carefully so that the proper database is selected.****
 
 Use the next step to select the database type that will be used for the installation by clicking on either **SQLite** or **MYSQL/MariaDB**.
 
@@ -188,7 +187,7 @@ Log in to the ownCloud server as the admin user. The main admin screen will be d
 - Navigate over to the **Create** to save the settings for the new user just created.
 
 
-***Figure 6:*** Configure User Parameter Settings
+***Figure 7:*** Configure User Parameter Settings
 
 ![](https://i.imgur.com/bq1wnR8.jpg)
 
@@ -210,7 +209,7 @@ Locate the ownCloud client named ***ownCloud-2.5.1.10973.10850.msi*** click on i
 
 - When prompted with the following screen enter in the server address for the ownCloud server.
 
-***Figure 7:*** Installation Wizard Screen
+***Figure 8:*** Installation Wizard Screen
 
 ![](https://i.imgur.com/ksat4kA.jpg)
 
@@ -222,14 +221,14 @@ The Local Folder Option screen will be displayed.
 
 - Select the settings which best suit the installation. You may sync all of your files on the ownCloud server, or select individual folders. The default local sync folder is ownCloud, in your home directory. You may change this as well. Navigate over to the **Connect** button and click on it to connect to the server.
 
-***Figure 7:*** Local Folder Sync Screen
+***Figure 9:*** Local Folder Sync Screen
 
 ![](https://i.imgur.com/0wrltvV.jpg)
 
 
 The client will attempt to connect to your ownCloud server, and when it is successful the following window will be displayed.
 
-***Figure 8:*** Synchronization Successful Screen
+***Figure 10:*** Synchronization Successful Screen
 
 ![](https://i.imgur.com/IHanKfE.jpg)
 
@@ -247,7 +246,7 @@ The **ownCloud Welcome** screen will be displayed.
 - Select the **Skip** button to continue. 
 
 
-***Figure 9:*** ownCloud iOS Welcome Screen
+***Figure 11:*** ownCloud iOS Welcome Screen
 
 ![](https://i.imgur.com/bQzQloj.jpg)
 
@@ -260,14 +259,14 @@ The next dialog window will prompt you for the username and password.
 
 - Enter in the **username** and **password** for the ownCloud server.
 
-***Figure 10:*** IP Entry and Connect to ownCloud Server Screen
+***Figure 12:*** IP Entry and Connect to ownCloud Server Screen
 
 ![](https://i.imgur.com/a1PnVFQ.jpg)
 
 
 After the iOS connects to the ownCloud server the Synchronization screen will be displayed as shown below.
 
-***Figure 11:*** iOS Synchronization Successful Screen
+***Figure 13:*** iOS Synchronization Successful Screen
 
 ![](https://i.imgur.com/mRe3qtO.jpg)
 
